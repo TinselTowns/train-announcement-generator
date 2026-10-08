@@ -1,0 +1,30 @@
+The train from London to Manchester was delayed due to a signalling failure.
+The service from London to Birmingham was delayed because of heavy rain.
+The train from Cambridge to Newcastle was delayed due to a technical fault.
+The service from Manchester to London was delayed because of a shortage of staff.
+The train from Birmingham to Cambridge was delayed due to strong winds.
+The service from Newcastle to London was delayed following a signalling fault.
+The train from London to Cambridge was delayed due to a train breakdown.
+The service from Manchester to Birmingham was delayed because of flooding.
+The train from Newcastle to Manchester was delayed due to a driver availability issue.
+The service from Cambridge to London was delayed following a technical problem.
+The train from Birmingham to Newcastle was delayed because of a signalling failure.
+The service from London to Manchester was delayed due to heavy rain.
+The train from Manchester to Cambridge was delayed because of a shortage of staff.
+The service from Newcastle to Birmingham was delayed due to strong winds.
+The train from Cambridge to Manchester was delayed following a train breakdown.
+The service from Birmingham to London was delayed because of a signalling fault.
+The train from London to Newcastle was delayed due to flooding.
+The service from Manchester to Newcastle was delayed because of a technical fault.
+The train from Cambridge to Birmingham was delayed due to a driver availability issue.
+The service from Newcastle to Cambridge was delayed following a signalling failure.
+The train from Birmingham to Manchester was delayed because of heavy rain.
+The service from London to Newcastle was delayed due to a shortage of staff.
+The train from Manchester to London was delayed following strong winds.
+The service from Cambridge to Birmingham was delayed because of a train breakdown.
+The train from Newcastle to Manchester was delayed due to a technical problem.
+The service from Birmingham to Cambridge was delayed following flooding.
+The train from London to Birmingham was delayed because of a signalling fault.
+The service from Manchester to Cambridge was delayed due to heavy rain.
+The train from Cambridge to Newcastle was delayed because of a shortage of staff.
+The service from Newcastle to London was delayed following a technical fault.

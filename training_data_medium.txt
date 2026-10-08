@@ -1,0 +1,992 @@
+This train has been cancelled because of a broken down train
+This train has been cancelled because of a delay on a previous journey
+This train has been cancelled because of a derailed train
+This train has been cancelled because of a fire at a station
+This train has been cancelled because of a fire at a station earlier
+This train has been cancelled because of a landslip
+This train has been cancelled because of a line-side fire
+This train has been cancelled because of a member of train crew being unavailable
+This train has been cancelled because of a passenger being taken ill
+This train has been cancelled because of a passenger having been taken ill earlier
+This train has been cancelled because of a person hit by a train
+This train has been cancelled because of a person hit by a train earlier
+This train has been cancelled because of a problem at a level crossing
+This train has been cancelled because of a problem currently under investigation
+This train has been cancelled because of a problem near the railway
+This train has been cancelled because of a problem with a river bridge
+This train has been cancelled because of a problem with line side equipment
+This train has been cancelled because of a security alert
+This train has been cancelled because of a train derailed earlier
+This train has been cancelled because of a train fault
+This train has been cancelled because of a train late from the depot
+This train has been cancelled because of a train late from the depot earlier
+This train has been cancelled because of a trespass incident
+This train has been cancelled because of a vehicle striking a bridge
+This train has been cancelled because of a vehicle striking a bridge earlier
+This train has been cancelled because of an earlier broken down train
+This train has been cancelled because of an earlier landslip
+This train has been cancelled because of an earlier line-side fire
+This train has been cancelled because of an earlier operating incident
+This train has been cancelled because of an earlier problem at a level crossing
+This train has been cancelled because of an earlier problem near the railway
+This train has been cancelled because of an earlier problem with a river bridge
+This train has been cancelled because of an earlier problem with line side equipment
+This train has been cancelled because of an earlier security alert
+This train has been cancelled because of an earlier train fault
+This train has been cancelled because of an earlier trespass incident
+This train has been cancelled because of an obstruction on the line
+This train has been cancelled because of an obstruction on the line earlier
+This train has been cancelled because of an operating incident
+This train has been cancelled because of an unusually large passenger flow
+This train has been cancelled because of an unusually large passenger flow earlier
+This train has been cancelled because of animals on the line
+This train has been cancelled because of animals on the line earlier
+This train has been cancelled because of congestion caused by earlier delays
+This train has been cancelled because of disruptive passengers
+This train has been cancelled because of disruptive passengers earlier
+This train has been cancelled because of earlier electrical supply problems
+This train has been cancelled because of earlier emergency engineering works
+This train has been cancelled because of earlier industrial action
+This train has been cancelled because of earlier overhead wire problems
+This train has been cancelled because of earlier over-running engineering works
+This train has been cancelled because of earlier signalling problems
+This train has been cancelled because of earlier vandalism
+This train has been cancelled because of electrical supply problems
+This train has been cancelled because of emergency engineering works
+This train has been cancelled because of emergency services dealing with a prior incident
+This train has been cancelled because of emergency services dealing with an incident
+This train has been cancelled because of fire alarms sounding at a station
+This train has been cancelled because of fire alarms sounding earlier at a station
+This train has been cancelled because of flooding
+This train has been cancelled because of flooding earlier
+This train has been cancelled because of fog
+This train has been cancelled because of fog earlier
+This train has been cancelled because of high winds
+This train has been cancelled because of high winds earlier
+This train has been cancelled because of industrial action
+This train has been cancelled because of lightning having damaged equipment
+This train has been cancelled because of overhead wire problems
+This train has been cancelled because of over-running engineering works
+This train has been cancelled because of passengers transferring between trains
+This train has been cancelled because of passengers transferring between trains earlier
+This train has been cancelled because of poor rail conditions
+This train has been cancelled because of poor rail conditions earlier
+This train has been cancelled because of poor weather conditions
+This train has been cancelled because of poor weather conditions earlier
+This train has been cancelled because of safety checks being made
+This train has been cancelled because of safety checks having been made earlier
+This train has been cancelled because of signalling problems
+This train has been cancelled because of snow
+This train has been cancelled because of snow earlier
+This train has been cancelled because of speed restrictions having been imposed
+This train has been cancelled because of train crew having been unavailable earlier
+This train has been cancelled because of vandalism
+This train has been cancelled because of waiting earlier for a train crew member
+This train has been cancelled because of waiting for a train crew member
+This train has been cancelled because of engineering works
+This train has been delayed by a broken down train
+This train has been delayed by a broken windscreen on the train
+This train has been delayed by a shortage of trains because of accident damage
+This train has been delayed by a shortage of trains because of extra safety inspections
+This train has been delayed by a shortage of trains because of vandalism
+This train has been delayed by a shortage of trains following damage by snow and ice
+This train has been delayed by more trains than usual needing repairs at the same time
+This train has been delayed by the train for this service having broken down
+This train has been delayed by this train breaking down
+This train has been delayed by a collision between trains
+This train has been delayed by a collision with the buffers at a station
+This train has been delayed by a derailed train
+This train has been delayed by a derailment within the depot
+This train has been delayed by a low speed derailment
+This train has been delayed by a train being involved in an accident
+This train has been delayed by trains being involved in an accident
+This train has been delayed by a fire at a station
+This train has been delayed by a fire at a station earlier today
+This train has been delayed by a landslip
+This train has been delayed by a fire next to the track
+This train has been delayed by a fire on a train
+This train has been delayed by a member of on train staff being taken ill
+This train has been delayed by a shortage of on train staff
+This train has been delayed by a shortage of train conductors
+This train has been delayed by a shortage of train crew
+This train has been delayed by a shortage of train drivers
+This train has been delayed by a shortage of train guards
+This train has been delayed by a shortage of train managers
+This train has been delayed by severe weather preventing train crew getting to work
+This train has been delayed by the train conductor being taken ill
+This train has been delayed by the train driver being taken ill
+This train has been delayed by the train guard being taken ill
+This train has been delayed by the train manager being taken ill
+This train has been delayed by a passenger being taken ill at a station
+This train has been delayed by a passenger being taken ill on a train
+This train has been delayed by a passenger being taken ill on this train
+This train has been delayed by a passenger being taken ill at a station earlier today
+This train has been delayed by a passenger being taken ill on a train earlier today
+This train has been delayed by a passenger being taken ill on this train earlier in its journey
+This train has been delayed by a person being hit by a train
+This train has been delayed by a person being hit by a train earlier today
+This train has been delayed by a collision at a level crossing
+This train has been delayed by a fault with barriers at a level crossing
+This train has been delayed by a road accident at a level crossing
+This train has been delayed by a road vehicle colliding with level crossing barriers
+This train has been delayed by a road vehicle damaging track at a level crossing
+This train has been delayed by a problem currently under investigation
+This train has been delayed by a burst water main near the railway
+This train has been delayed by a chemical spillage near the railway
+This train has been delayed by a fire near the railway involving gas cylinders
+This train has been delayed by a fire near the railway suspected to involve gas cylinders
+This train has been delayed by a fire on property near the railway
+This train has been delayed by a gas leak near the railway
+This train has been delayed by a road accident near the railway
+This train has been delayed by a wartime bomb near the railway
+This train has been delayed by ambulance service dealing with an incident near the railway
+This train has been delayed by emergency services dealing with an incident near the railway
+This train has been delayed by fire brigade dealing with an incident near the railway
+This train has been delayed by police dealing with an incident near the railway
+This train has been delayed by a boat colliding with a bridge
+This train has been delayed by a fault with a swing bridge over a river
+This train has been delayed by a problem with a river bridge
+This train has been delayed by a problem with line-side equipment
+This train has been delayed by a security alert at a station
+This train has been delayed by a security alert on another train
+This train has been delayed by a security alert on this train
+This train has been delayed by a train derailment earlier today
+This train has been delayed by a train derailment yesterday
+This train has been delayed by a fault occurring when attaching a part of a train
+This train has been delayed by a fault occurring when attaching a part of this train
+This train has been delayed by a fault occurring when detaching a part of a train
+This train has been delayed by a fault occurring when detaching a part of this train
+This train has been delayed by a fault on a train in front of this one
+This train has been delayed by a fault on this train
+This train has been delayed by this train being late from the depot
+This train has been delayed by trespassers on the railway
+This train has been delayed by a bus colliding with a bridge
+This train has been delayed by a lorry colliding with a bridge
+This train has been delayed by a road vehicle colliding with a bridge
+This train has been delayed by a bus colliding with a bridge earlier on this train's journey
+This train has been delayed by a bus colliding with a bridge earlier today
+This train has been delayed by a lorry colliding with a bridge earlier on this train's journey
+This train has been delayed by a lorry colliding with a bridge earlier today
+This train has been delayed by a road vehicle colliding with a bridge earlier on this train's journey
+This train has been delayed by a road vehicle colliding with a bridge earlier today
+This train has been delayed by a broken down train earlier today
+This train has been delayed by an earlier landslip
+This train has been delayed by a fire next to the track earlier today
+This train has been delayed by a fire on a train earlier today
+This train has been delayed by a coach becoming uncoupled on a train earlier in its journey
+This train has been delayed by a coach becoming uncoupled on a train earlier today
+This train has been delayed by a coach becoming uncoupled on this train earlier in its journey
+This train has been delayed by a coach becoming uncoupled on this train earlier today
+This train has been delayed by a train not stopping at a station it was supposed to earlier in its journey
+This train has been delayed by a train not stopping at a station it was supposed to earlier today
+This train has been delayed by a train not stopping in the correct position at a station earlier in its journey
+This train has been delayed by a train not stopping in the correct position at a station earlier today
+This train has been delayed by a train's automatic braking system being activated earlier in its journey
+This train has been delayed by a train's automatic braking system being activated earlier today
+This train has been delayed by an operational incident earlier in its journey
+This train has been delayed by an operational incident earlier today
+This train has been delayed by this train not stopping at a station it was supposed to earlier in its journey
+This train has been delayed by this train not stopping at a station it was supposed to earlier today
+This train has been delayed by this train not stopping in the correct position at a station earlier in its journey
+This train has been delayed by this train not stopping in the correct position at a station earlier today
+This train has been delayed by this train's automatic braking system being activated earlier in its journey
+This train has been delayed by this train's automatic braking system being activated earlier today
+This train has been delayed by a collision at a level crossing earlier today
+This train has been delayed by a collision at a level crossing yesterday
+This train has been delayed by a fault with barriers at a level crossing earlier today
+This train has been delayed by a fault with barriers at a level crossing yesterday
+This train has been delayed by a road accident at a level crossing earlier today
+This train has been delayed by a road accident at a level crossing yesterday
+This train has been delayed by a road vehicle colliding with level crossing barriers earlier today
+This train has been delayed by a road vehicle colliding with level crossing barriers yesterday
+This train has been delayed by a road vehicle damaging track at a level crossing earlier today
+This train has been delayed by a road vehicle damaging track at a level crossing yesterday
+This train has been delayed by a burst water main near the railway earlier today
+This train has been delayed by a burst water main near the railway yesterday
+This train has been delayed by a chemical spillage near the railway earlier today
+This train has been delayed by a chemical spillage near the railway yesterday
+This train has been delayed by a fire near the railway involving gas cylinders earlier today
+This train has been delayed by a fire near the railway involving gas cylinders yesterday
+This train has been delayed by a fire near the railway suspected to involve gas cylinders earlier today
+This train has been delayed by a fire near the railway suspected to involve gas cylinders yesterday
+This train has been delayed by a fire on property near the railway earlier today
+This train has been delayed by a fire on property near the railway yesterday
+This train has been delayed by a gas leak near the railway earlier today
+This train has been delayed by a gas leak near the railway yesterday
+This train has been delayed by a road accident near the railway earlier today
+This train has been delayed by a road accident near the railway yesterday
+This train has been delayed by a wartime bomb near the railway earlier today
+This train has been delayed by a wartime bomb near the railway yesterday
+This train has been delayed by a wartime bomb which has now been made safe
+This train has been delayed by ambulance service dealing with an incident near the railway earlier today
+This train has been delayed by ambulance service dealing with an incident near the railway yesterday
+This train has been delayed by emergency services dealing with an incident near the railway earlier today
+This train has been delayed by emergency services dealing with an incident near the railway yesterday
+This train has been delayed by fire brigade dealing with an incident near the railway earlier today
+This train has been delayed by fire brigade dealing with an incident near the railway yesterday
+This train has been delayed by police dealing with an incident near the railway earlier today
+This train has been delayed by police dealing with an incident near the railway yesterday
+This train has been delayed by a boat colliding with a bridge earlier today
+This train has been delayed by a fault with a swing bridge over a river earlier today
+This train has been delayed by a problem with a river bridge earlier today
+This train has been delayed by an earlier problem with line-side equipment
+This train has been delayed by a security alert earlier today
+This train has been delayed by a fault on this train which is now fixed
+This train has been delayed by trespassers on the railway earlier in this train's journey
+This train has been delayed by trespassers on the railway earlier today
+This train has been delayed by a bicycle on the track
+This train has been delayed by a road vehicle blocking the railway
+This train has been delayed by a supermarket trolley on the track
+This train has been delayed by a train hitting an obstruction on the line
+This train has been delayed by a tree blocking the railway
+This train has been delayed by an obstruction on the track
+This train has been delayed by checking reports of an obstruction on the line
+This train has been delayed by this train hitting an obstruction on the line
+This train has been delayed by a bicycle on the track earlier on this train's journey
+This train has been delayed by a bicycle on the track earlier today
+This train has been delayed by a road vehicle blocking the railway earlier on this train's journey
+This train has been delayed by a road vehicle blocking the railway earlier today
+This train has been delayed by a supermarket trolley on the track earlier on this train's journey
+This train has been delayed by a supermarket trolley on the track earlier today
+This train has been delayed by a train hitting an obstruction on the line earlier on this train's journey
+This train has been delayed by a train hitting an obstruction on the line earlier today
+This train has been delayed by a tree blocking the railway earlier on this train's journey
+This train has been delayed by a tree blocking the railway earlier today
+This train has been delayed by an obstruction on the track earlier on this train's journey
+This train has been delayed by an obstruction on the track earlier today
+This train has been delayed by checking reports of an obstruction on the line earlier on this train's journey
+This train has been delayed by checking reports of an obstruction on the line earlier today
+This train has been delayed by this train hitting an obstruction on the line earlier in its journey
+This train has been delayed by this train hitting an obstruction on the line earlier on this train's journey
+This train has been delayed by this train hitting an obstruction on the line earlier today
+This train has been delayed by a coach becoming uncoupled on a train
+This train has been delayed by a coach becoming uncoupled on this train
+This train has been delayed by a train not stopping at a station it was supposed to
+This train has been delayed by a train not stopping in the correct position at a station
+This train has been delayed by a train's automatic braking system being activated
+This train has been delayed by an operational incident
+This train has been delayed by this train not stopping at a station it was supposed to
+This train has been delayed by this train not stopping in the correct position at a station
+This train has been delayed by this train's automatic braking system being activated
+This train has been delayed by overcrowding
+This train has been delayed by overcrowding as this train has fewer coaches than normal
+This train has been delayed by overcrowding because an earlier train had fewer coaches than normal
+This train has been delayed by overcrowding because of a concert
+This train has been delayed by overcrowding because of a football match
+This train has been delayed by overcrowding because of a marathon
+This train has been delayed by overcrowding because of a rugby match
+This train has been delayed by overcrowding because of a sporting event
+This train has been delayed by overcrowding because of an earlier cancellation
+This train has been delayed by overcrowding because of an event
+This train has been delayed by overcrowding earlier on this train's journey
+This train has been delayed by animals on the railway
+This train has been delayed by cattle on the railway
+This train has been delayed by horses on the railway
+This train has been delayed by sheep on the railway
+This train has been delayed by animals on the railway earlier today
+This train has been delayed by cattle on the railway earlier today
+This train has been delayed by horses on the railway earlier today
+This train has been delayed by sheep on the railway earlier today
+This train has been delayed by passengers causing a disturbance on a train
+This train has been delayed by passengers causing a disturbance on this train
+This train has been delayed by passengers causing a disturbance earlier in this train's journey
+This train has been delayed by passengers causing a disturbance on a train earlier today
+This train has been delayed by a fault with the electric third rail earlier on this train's journey
+This train has been delayed by a fault with the electric third rail earlier today
+This train has been delayed by damage to the electric third rail earlier on this train's journey
+This train has been delayed by damage to the electric third rail earlier today
+This train has been delayed by failure of the electricity supply earlier on this train's journey
+This train has been delayed by failure of the electricity supply earlier today
+This train has been delayed by the electricity being switched off for safety reasons earlier on this train's journey
+This train has been delayed by the electricity being switched off for safety reasons earlier today
+This train has been delayed by urgent repairs to a bridge earlier today
+This train has been delayed by urgent repairs to a tunnel earlier today
+This train has been delayed by urgent repairs to the railway earlier today
+This train has been delayed by urgent repairs to the track earlier today
+This train has been delayed by expected industrial action earlier today
+This train has been delayed by expected industrial action yesterday
+This train has been delayed by industrial action earlier today
+This train has been delayed by industrial action yesterday
+This train has been delayed by an object being caught on the overhead electric wires earlier on this train's journey
+This train has been delayed by an object being caught on the overhead electric wires earlier today
+This train has been delayed by damage to the overhead electric wires earlier on this train's journey
+This train has been delayed by damage to the overhead electric wires earlier today
+This train has been delayed by earlier engineering works not being finished on time
+This train has been delayed by a fault with the on train signalling system earlier on this train's journey
+This train has been delayed by a fault with the on train signalling system earlier today
+This train has been delayed by a fault with the radio system between the driver and the signaller earlier on this train's journey
+This train has been delayed by a fault with the radio system between the driver and the signaller earlier today
+This train has been delayed by a fault with the signalling system earlier on this train's journey
+This train has been delayed by a fault with the signalling system earlier today
+This train has been delayed by signalling staff being taken ill earlier on this train's journey
+This train has been delayed by signalling staff being taken ill earlier today
+This train has been delayed by the fire alarm sounding in a signalbox earlier on this train's journey
+This train has been delayed by the fire alarm sounding in a signalbox earlier today
+This train has been delayed by the fire alarm sounding in the signalling centre earlier on this train's journey
+This train has been delayed by the fire alarm sounding in the signalling centre earlier today
+This train has been delayed by attempted theft of overhead line electrification equipment earlier today
+This train has been delayed by attempted theft of overhead line electrification equipment yesterday
+This train has been delayed by attempted theft of railway equipment earlier today
+This train has been delayed by attempted theft of railway equipment yesterday
+This train has been delayed by attempted theft of signalling cables earlier today
+This train has been delayed by attempted theft of signalling cables yesterday
+This train has been delayed by attempted theft of third rail electrification equipment earlier today
+This train has been delayed by attempted theft of third rail electrification equipment yesterday
+This train has been delayed by theft of overhead line electrification equipment earlier today
+This train has been delayed by theft of overhead line electrification equipment yesterday
+This train has been delayed by theft of railway equipment earlier today
+This train has been delayed by theft of railway equipment yesterday
+This train has been delayed by theft of signalling cables earlier today
+This train has been delayed by theft of signalling cables yesterday
+This train has been delayed by theft of third rail electrification equipment earlier today
+This train has been delayed by theft of third rail electrification equipment yesterday
+This train has been delayed by vandalism at a station earlier today
+This train has been delayed by vandalism at a station yesterday
+This train has been delayed by vandalism of railway equipment earlier today
+This train has been delayed by vandalism of railway equipment yesterday
+This train has been delayed by vandalism on a train earlier today
+This train has been delayed by vandalism on a train yesterday
+This train has been delayed by vandalism on this train earlier today
+This train has been delayed by vandalism on this train yesterday
+This train has been delayed by a fault with the electric third rail
+This train has been delayed by damage to the electric third rail
+This train has been delayed by failure of the electricity supply
+This train has been delayed by the electricity being switched off for safety reasons
+This train has been delayed by urgent repairs to a bridge
+This train has been delayed by urgent repairs to a tunnel
+This train has been delayed by urgent repairs to the railway
+This train has been delayed by urgent repairs to the track
+This train has been delayed by the emergency services dealing with an incident earlier today
+This train has been delayed by ambulance service dealing with an incident
+This train has been delayed by fire brigade dealing with an incident
+This train has been delayed by police dealing with an incident
+This train has been delayed by the emergency services dealing with an incident
+This train has been delayed by the fire alarm sounding at a station
+This train has been delayed by the fire alarm sounding at a station earlier today
+This train has been delayed by a burst water main flooding the railway
+This train has been delayed by a river flooding the railway
+This train has been delayed by flood water making the railway potentially unsafe
+This train has been delayed by flooding
+This train has been delayed by heavy rain flooding the railway
+This train has been delayed by predicted flooding
+This train has been delayed by the sea flooding the railway
+This train has been delayed by a burst water main flooding the railway earlier today
+This train has been delayed by a river flooding the railway earlier today
+This train has been delayed by flood water making the railway potentially unsafe earlier today
+This train has been delayed by flooding earlier in this train's journey
+This train has been delayed by flooding earlier today
+This train has been delayed by heavy rain flooding the railway earlier today
+This train has been delayed by predicted flooding earlier today
+This train has been delayed by the sea flooding the railway earlier today
+This train has been delayed by thick fog
+This train has been delayed by thick fog earlier in this train's journey
+This train has been delayed by thick fog earlier today
+This train has been delayed by forecasted high winds
+This train has been delayed by high winds
+This train has been delayed by high winds earlier in this train's journey
+This train has been delayed by high winds earlier today
+This train has been delayed by expected industrial action
+This train has been delayed by industrial action
+This train has been delayed by lightning damaging a station
+This train has been delayed by lightning damaging a train
+This train has been delayed by lightning damaging equipment
+This train has been delayed by lightning damaging the electricity supply
+This train has been delayed by lightning damaging the signalling system
+This train has been delayed by lightning damaging this train
+This train has been delayed by an object being caught on the overhead electric wires
+This train has been delayed by damage to the overhead electric wires
+This train has been delayed by engineering works not being finished on time
+This train has been delayed by forecasted slippery rails
+This train has been delayed by ice preventing this train getting electricity from the third rail
+This train has been delayed by ice preventing trains getting electricity from the third rail
+This train has been delayed by slippery rails
+This train has been delayed by slippery rails earlier in this train's journey
+This train has been delayed by slippery rails earlier today
+This train has been delayed by forecasted severe weather
+This train has been delayed by severe weather
+This train has been delayed by severe weather earlier
+This train has been delayed by severe weather earlier in this train's journey
+This train has been delayed by severe weather earlier today
+This train has been delayed by a safety inspection of the track
+This train has been delayed by a safety inspection on a train
+This train has been delayed by a safety inspection on this train
+This train has been delayed by a safety inspection of the track earlier today
+This train has been delayed by a safety inspection on a train earlier today
+This train has been delayed by a safety inspection on this train earlier in its journey
+This train has been delayed by a fault with the on train signalling system
+This train has been delayed by a fault with the radio system between the driver and the signaller
+This train has been delayed by a fault with the signalling system
+This train has been delayed by signalling staff being taken ill
+This train has been delayed by the fire alarm sounding in a signalbox
+This train has been delayed by the fire alarm sounding in the signalling centre
+This train has been delayed by forecasted heavy snow
+This train has been delayed by heavy snow
+This train has been delayed by heavy snow earlier in this train's journey
+This train has been delayed by heavy snow earlier today
+This train has been delayed by heavy snow over recent days
+This train has been delayed by a speed restriction
+This train has been delayed by a speed restriction because of fog
+This train has been delayed by a speed restriction because of fog earlier on this train's journey
+This train has been delayed by a speed restriction because of fog earlier today
+This train has been delayed by a speed restriction because of heavy rain
+This train has been delayed by a speed restriction because of heavy rain earlier on this train's journey
+This train has been delayed by a speed restriction because of heavy rain earlier today
+This train has been delayed by a speed restriction because of high track temperatures
+This train has been delayed by a speed restriction because of high track temperatures earlier on this train's journey
+This train has been delayed by a speed restriction because of high track temperatures earlier today
+This train has been delayed by a speed restriction because of high winds
+This train has been delayed by a speed restriction because of high winds earlier on this train's journey
+This train has been delayed by a speed restriction because of high winds earlier today
+This train has been delayed by a speed restriction because of severe weather
+This train has been delayed by a speed restriction because of severe weather earlier on this train's journey
+This train has been delayed by a speed restriction because of severe weather earlier today
+This train has been delayed by a speed restriction because of snow and ice
+This train has been delayed by a speed restriction because of snow and ice earlier on this train's journey
+This train has been delayed by a speed restriction because of snow and ice earlier today
+This train has been delayed by a speed restriction earlier on this train's journey
+This train has been delayed by a speed restriction earlier today
+This train has been delayed by a speed restriction in a tunnel
+This train has been delayed by a speed restriction in a tunnel earlier on this train's journey
+This train has been delayed by a speed restriction in a tunnel earlier today
+This train has been delayed by a speed restriction over a bridge
+This train has been delayed by a speed restriction over a bridge earlier on this train's journey
+This train has been delayed by a speed restriction over a bridge earlier today
+This train has been delayed by a speed restriction over an embankment
+This train has been delayed by a speed restriction over an embankment earlier on this train's journey
+This train has been delayed by a speed restriction over an embankment earlier today
+This train has been delayed by a speed restriction over defective track
+This train has been delayed by a speed restriction over defective track earlier on this train's journey
+This train has been delayed by a speed restriction over defective track earlier today
+This train has been delayed by attempted theft of overhead line electrification equipment
+This train has been delayed by attempted theft of railway equipment
+This train has been delayed by attempted theft of signalling cables
+This train has been delayed by attempted theft of third rail electrification equipment
+This train has been delayed by theft of overhead line electrification equipment
+This train has been delayed by theft of railway equipment
+This train has been delayed by theft of signalling cables
+This train has been delayed by theft of third rail electrification equipment
+This train has been delayed by vandalism at a station
+This train has been delayed by vandalism of railway equipment
+This train has been delayed by vandalism on a train
+This train has been delayed by vandalism on this train
+This train has been delayed by train crew being delayed
+This train has been delayed by train crew being delayed by service disruption
+This train has been delayed by a bridge being damaged
+This train has been delayed by a bridge being damaged by a boat
+This train has been delayed by a bridge being damaged by a road vehicle
+This train has been delayed by a bridge having collapsed
+This train has been delayed by a broken rail
+This train has been delayed by a late departure while the train was cleaned specially
+This train has been delayed by a late running freight train
+This train has been delayed by a late running train being in front of this one
+This train has been delayed by a points failure
+This train has been delayed by a power cut at the station
+This train has been delayed by a problem with the station lighting
+This train has been delayed by a rail buckling in the heat
+This train has been delayed by a railway embankment being damaged
+This train has been delayed by a shortage of station staff
+This train has been delayed by a tunnel being closed for safety reasons
+This train has been delayed by an incident at the airport
+This train has been delayed by congestion
+This train has been delayed by the communication alarm being activated on a train
+This train has been delayed by the communication alarm being activated on this train
+This train has been delayed by the train departing late to maintain customer connections
+This train has been delayed by the train making extra stops because a train was cancelled
+This train has been delayed by the train making extra stops because of service disruption
+This train has been delayed by waiting for a part of the train to be attached
+This train has been cancelled because of a broken down train
+This train has been cancelled because of a delay on a previous journey
+This train has been cancelled because of a derailed train
+This train has been cancelled because of a fire at a station
+This train has been cancelled because of a fire at a station earlier
+This train has been cancelled because of a landslip
+This train has been cancelled because of a line-side fire
+This train has been cancelled because of a member of train crew being unavailable
+This train has been cancelled because of a passenger being taken ill
+This train has been cancelled because of a passenger having been taken ill earlier
+This train has been cancelled because of a person hit by a train
+This train has been cancelled because of a person hit by a train earlier
+This train has been cancelled because of a problem at a level crossing
+This train has been cancelled because of a problem currently under investigation
+This train has been cancelled because of a problem near the railway
+This train has been cancelled because of a problem with a river bridge
+This train has been cancelled because of a problem with line side equipment
+This train has been cancelled because of a security alert
+This train has been cancelled because of a train derailed earlier
+This train has been cancelled because of a train fault
+This train has been cancelled because of a train late from the depot
+This train has been cancelled because of a train late from the depot earlier
+This train has been cancelled because of a trespass incident
+This train has been cancelled because of a vehicle striking a bridge
+This train has been cancelled because of a vehicle striking a bridge earlier
+This train has been cancelled because of an earlier broken down train
+This train has been cancelled because of an earlier landslip
+This train has been cancelled because of an earlier line-side fire
+This train has been cancelled because of an earlier operating incident
+This train has been cancelled because of an earlier problem at a level crossing
+This train has been cancelled because of an earlier problem near the railway
+This train has been cancelled because of an earlier problem with a river bridge
+This train has been cancelled because of an earlier problem with line side equipment
+This train has been cancelled because of an earlier security alert
+This train has been cancelled because of an earlier train fault
+This train has been cancelled because of an earlier trespass incident
+This train has been cancelled because of an obstruction on the line
+This train has been cancelled because of an obstruction on the line earlier
+This train has been cancelled because of an operating incident
+This train has been cancelled because of an unusually large passenger flow
+This train has been cancelled because of an unusually large passenger flow earlier
+This train has been cancelled because of animals on the line
+This train has been cancelled because of animals on the line earlier
+This train has been cancelled because of congestion caused by earlier delays
+This train has been cancelled because of disruptive passengers
+This train has been cancelled because of disruptive passengers earlier
+This train has been cancelled because of earlier electrical supply problems
+This train has been cancelled because of earlier emergency engineering works
+This train has been cancelled because of earlier industrial action
+This train has been cancelled because of earlier overhead wire problems
+This train has been cancelled because of earlier over-running engineering works
+This train has been cancelled because of earlier signalling problems
+This train has been cancelled because of earlier vandalism
+This train has been cancelled because of electrical supply problems
+This train has been cancelled because of emergency engineering works
+This train has been cancelled because of emergency services dealing with a prior incident
+This train has been cancelled because of emergency services dealing with an incident
+This train has been cancelled because of fire alarms sounding at a station
+This train has been cancelled because of fire alarms sounding earlier at a station
+This train has been cancelled because of flooding
+This train has been cancelled because of flooding earlier
+This train has been cancelled because of fog
+This train has been cancelled because of fog earlier
+This train has been cancelled because of high winds
+This train has been cancelled because of high winds earlier
+This train has been cancelled because of industrial action
+This train has been cancelled because of lightning having damaged equipment
+This train has been cancelled because of overhead wire problems
+This train has been cancelled because of over-running engineering works
+This train has been cancelled because of passengers transferring between trains
+This train has been cancelled because of passengers transferring between trains earlier
+This train has been cancelled because of poor rail conditions
+This train has been cancelled because of poor rail conditions earlier
+This train has been cancelled because of poor weather conditions
+This train has been cancelled because of poor weather conditions earlier
+This train has been cancelled because of safety checks being made
+This train has been cancelled because of safety checks having been made earlier
+This train has been cancelled because of signalling problems
+This train has been cancelled because of snow
+This train has been cancelled because of snow earlier
+This train has been cancelled because of speed restrictions having been imposed
+This train has been cancelled because of train crew having been unavailable earlier
+This train has been cancelled because of vandalism
+This train has been cancelled because of waiting earlier for a train crew member
+This train has been cancelled because of waiting for a train crew member
+This train has been cancelled because of engineering works
+This train has been cancelled because of a broken down train
+This train has been cancelled because of a broken windscreen on the train
+This train has been cancelled because of a shortage of trains because of accident damage
+This train has been cancelled because of a shortage of trains because of extra safety inspections
+This train has been cancelled because of a shortage of trains because of vandalism
+This train has been cancelled because of a shortage of trains following damage by snow and ice
+This train has been cancelled because of more trains than usual needing repairs at the same time
+This train has been cancelled because of the train for this service having broken down
+This train has been cancelled because of this train breaking down
+This train has been cancelled because of a collision between trains
+This train has been cancelled because of a collision with the buffers at a station
+This train has been cancelled because of a derailed train
+This train has been cancelled because of a derailment within the depot
+This train has been cancelled because of a low speed derailment
+This train has been cancelled because of a train being involved in an accident
+This train has been cancelled because of trains being involved in an accident
+This train has been cancelled because of a fire at a station
+This train has been cancelled because of a fire at a station earlier today
+This train has been cancelled because of a landslip
+This train has been cancelled because of a fire next to the track
+This train has been cancelled because of a fire on a train
+This train has been cancelled because of a member of on train staff being taken ill
+This train has been cancelled because of a shortage of on train staff
+This train has been cancelled because of a shortage of train conductors
+This train has been cancelled because of a shortage of train crew
+This train has been cancelled because of a shortage of train drivers
+This train has been cancelled because of a shortage of train guards
+This train has been cancelled because of a shortage of train managers
+This train has been cancelled because of severe weather preventing train crew getting to work
+This train has been cancelled because of the train conductor being taken ill
+This train has been cancelled because of the train driver being taken ill
+This train has been cancelled because of the train guard being taken ill
+This train has been cancelled because of the train manager being taken ill
+This train has been cancelled because of a passenger being taken ill at a station
+This train has been cancelled because of a passenger being taken ill on a train
+This train has been cancelled because of a passenger being taken ill on this train
+This train has been cancelled because of a passenger being taken ill at a station earlier today
+This train has been cancelled because of a passenger being taken ill on a train earlier today
+This train has been cancelled because of a passenger being taken ill on this train earlier in its journey
+This train has been cancelled because of a person being hit by a train
+This train has been cancelled because of a person being hit by a train earlier today
+This train has been cancelled because of a collision at a level crossing
+This train has been cancelled because of a fault with barriers at a level crossing
+This train has been cancelled because of a road accident at a level crossing
+This train has been cancelled because of a road vehicle colliding with level crossing barriers
+This train has been cancelled because of a road vehicle damaging track at a level crossing
+This train has been cancelled because of a problem currently under investigation
+This train has been cancelled because of a burst water main near the railway
+This train has been cancelled because of a chemical spillage near the railway
+This train has been cancelled because of a fire near the railway involving gas cylinders
+This train has been cancelled because of a fire near the railway suspected to involve gas cylinders
+This train has been cancelled because of a fire on property near the railway
+This train has been cancelled because of a gas leak near the railway
+This train has been cancelled because of a road accident near the railway
+This train has been cancelled because of a wartime bomb near the railway
+This train has been cancelled because of ambulance service dealing with an incident near the railway
+This train has been cancelled because of emergency services dealing with an incident near the railway
+This train has been cancelled because of fire brigade dealing with an incident near the railway
+This train has been cancelled because of police dealing with an incident near the railway
+This train has been cancelled because of a boat colliding with a bridge
+This train has been cancelled because of a fault with a swing bridge over a river
+This train has been cancelled because of a problem with a river bridge
+This train has been cancelled because of a problem with line-side equipment
+This train has been cancelled because of a security alert at a station
+This train has been cancelled because of a security alert on another train
+This train has been cancelled because of a security alert on this train
+This train has been cancelled because of a train derailment earlier today
+This train has been cancelled because of a train derailment yesterday
+This train has been cancelled because of a fault occurring when attaching a part of a train
+This train has been cancelled because of a fault occurring when attaching a part of this train
+This train has been cancelled because of a fault occurring when detaching a part of a train
+This train has been cancelled because of a fault occurring when detaching a part of this train
+This train has been cancelled because of a fault on a train in front of this one
+This train has been cancelled because of a fault on this train
+This train has been cancelled because of this train being late from the depot
+This train has been cancelled because of trespassers on the railway
+This train has been cancelled because of a bus colliding with a bridge
+This train has been cancelled because of a lorry colliding with a bridge
+This train has been cancelled because of a road vehicle colliding with a bridge
+This train has been cancelled because of a bus colliding with a bridge earlier on this train's journey
+This train has been cancelled because of a bus colliding with a bridge earlier today
+This train has been cancelled because of a lorry colliding with a bridge earlier on this train's journey
+This train has been cancelled because of a lorry colliding with a bridge earlier today
+This train has been cancelled because of a road vehicle colliding with a bridge earlier on this train's journey
+This train has been cancelled because of a road vehicle colliding with a bridge earlier today
+This train has been cancelled because of a broken down train earlier today
+This train has been cancelled because of an earlier landslip
+This train has been cancelled because of a fire next to the track earlier today
+This train has been cancelled because of a fire on a train earlier today
+This train has been cancelled because of a coach becoming uncoupled on a train earlier in its journey
+This train has been cancelled because of a coach becoming uncoupled on a train earlier today
+This train has been cancelled because of a coach becoming uncoupled on this train earlier in its journey
+This train has been cancelled because of a coach becoming uncoupled on this train earlier today
+This train has been cancelled because of a train not stopping at a station it was supposed to earlier in its journey
+This train has been cancelled because of a train not stopping at a station it was supposed to earlier today
+This train has been cancelled because of a train not stopping in the correct position at a station earlier in its journey
+This train has been cancelled because of a train not stopping in the correct position at a station earlier today
+This train has been cancelled because of a train's automatic braking system being activated earlier in its journey
+This train has been cancelled because of a train's automatic braking system being activated earlier today
+This train has been cancelled because of an operational incident earlier in its journey
+This train has been cancelled because of an operational incident earlier today
+This train has been cancelled because of this train not stopping at a station it was supposed to earlier in its journey
+This train has been cancelled because of this train not stopping at a station it was supposed to earlier today
+This train has been cancelled because of this train not stopping in the correct position at a station earlier in its journey
+This train has been cancelled because of this train not stopping in the correct position at a station earlier today
+This train has been cancelled because of this train's automatic braking system being activated earlier in its journey
+This train has been cancelled because of this train's automatic braking system being activated earlier today
+This train has been cancelled because of a collision at a level crossing earlier today
+This train has been cancelled because of a collision at a level crossing yesterday
+This train has been cancelled because of a fault with barriers at a level crossing earlier today
+This train has been cancelled because of a fault with barriers at a level crossing yesterday
+This train has been cancelled because of a road accident at a level crossing earlier today
+This train has been cancelled because of a road accident at a level crossing yesterday
+This train has been cancelled because of a road vehicle colliding with level crossing barriers earlier today
+This train has been cancelled because of a road vehicle colliding with level crossing barriers yesterday
+This train has been cancelled because of a road vehicle damaging track at a level crossing earlier today
+This train has been cancelled because of a road vehicle damaging track at a level crossing yesterday
+This train has been cancelled because of a burst water main near the railway earlier today
+This train has been cancelled because of a burst water main near the railway yesterday
+This train has been cancelled because of a chemical spillage near the railway earlier today
+This train has been cancelled because of a chemical spillage near the railway yesterday
+This train has been cancelled because of a fire near the railway involving gas cylinders earlier today
+This train has been cancelled because of a fire near the railway involving gas cylinders yesterday
+This train has been cancelled because of a fire near the railway suspected to involve gas cylinders earlier today
+This train has been cancelled because of a fire near the railway suspected to involve gas cylinders yesterday
+This train has been cancelled because of a fire on property near the railway earlier today
+This train has been cancelled because of a fire on property near the railway yesterday
+This train has been cancelled because of a gas leak near the railway earlier today
+This train has been cancelled because of a gas leak near the railway yesterday
+This train has been cancelled because of a road accident near the railway earlier today
+This train has been cancelled because of a road accident near the railway yesterday
+This train has been cancelled because of a wartime bomb near the railway earlier today
+This train has been cancelled because of a wartime bomb near the railway yesterday
+This train has been cancelled because of a wartime bomb which has now been made safe
+This train has been cancelled because of ambulance service dealing with an incident near the railway earlier today
+This train has been cancelled because of ambulance service dealing with an incident near the railway yesterday
+This train has been cancelled because of emergency services dealing with an incident near the railway earlier today
+This train has been cancelled because of emergency services dealing with an incident near the railway yesterday
+This train has been cancelled because of fire brigade dealing with an incident near the railway earlier today
+This train has been cancelled because of fire brigade dealing with an incident near the railway yesterday
+This train has been cancelled because of police dealing with an incident near the railway earlier today
+This train has been cancelled because of police dealing with an incident near the railway yesterday
+This train has been cancelled because of a boat colliding with a bridge earlier today
+This train has been cancelled because of a fault with a swing bridge over a river earlier today
+This train has been cancelled because of a problem with a river bridge earlier today
+This train has been cancelled because of an earlier problem with line-side equipment
+This train has been cancelled because of a security alert earlier today
+This train has been cancelled because of a fault on this train which is now fixed
+This train has been cancelled because of trespassers on the railway earlier in this train's journey
+This train has been cancelled because of trespassers on the railway earlier today
+This train has been cancelled because of a bicycle on the track
+This train has been cancelled because of a road vehicle blocking the railway
+This train has been cancelled because of a supermarket trolley on the track
+This train has been cancelled because of a train hitting an obstruction on the line
+This train has been cancelled because of a tree blocking the railway
+This train has been cancelled because of an obstruction on the track
+This train has been cancelled because of checking reports of an obstruction on the line
+This train has been cancelled because of this train hitting an obstruction on the line
+This train has been cancelled because of a bicycle on the track earlier on this train's journey
+This train has been cancelled because of a bicycle on the track earlier today
+This train has been cancelled because of a road vehicle blocking the railway earlier on this train's journey
+This train has been cancelled because of a road vehicle blocking the railway earlier today
+This train has been cancelled because of a supermarket trolley on the track earlier on this train's journey
+This train has been cancelled because of a supermarket trolley on the track earlier today
+This train has been cancelled because of a train hitting an obstruction on the line earlier on this train's journey
+This train has been cancelled because of a train hitting an obstruction on the line earlier today
+This train has been cancelled because of a tree blocking the railway earlier on this train's journey
+This train has been cancelled because of a tree blocking the railway earlier today
+This train has been cancelled because of an obstruction on the track earlier on this train's journey
+This train has been cancelled because of an obstruction on the track earlier today
+This train has been cancelled because of checking reports of an obstruction on the line earlier on this train's journey
+This train has been cancelled because of checking reports of an obstruction on the line earlier today
+This train has been cancelled because of this train hitting an obstruction on the line earlier in its journey
+This train has been cancelled because of this train hitting an obstruction on the line earlier on this train's journey
+This train has been cancelled because of this train hitting an obstruction on the line earlier today
+This train has been cancelled because of a coach becoming uncoupled on a train
+This train has been cancelled because of a coach becoming uncoupled on this train
+This train has been cancelled because of a train not stopping at a station it was supposed to
+This train has been cancelled because of a train not stopping in the correct position at a station
+This train has been cancelled because of a train's automatic braking system being activated
+This train has been cancelled because of an operational incident
+This train has been cancelled because of this train not stopping at a station it was supposed to
+This train has been cancelled because of this train not stopping in the correct position at a station
+This train has been cancelled because of this train's automatic braking system being activated
+This train has been cancelled because of overcrowding
+This train has been cancelled because of overcrowding as this train has fewer coaches than normal
+This train has been cancelled because of overcrowding because an earlier train had fewer coaches than normal
+This train has been cancelled because of overcrowding because of a concert
+This train has been cancelled because of overcrowding because of a football match
+This train has been cancelled because of overcrowding because of a marathon
+This train has been cancelled because of overcrowding because of a rugby match
+This train has been cancelled because of overcrowding because of a sporting event
+This train has been cancelled because of overcrowding because of an earlier cancellation
+This train has been cancelled because of overcrowding because of an event
+This train has been cancelled because of overcrowding earlier on this train's journey
+This train has been cancelled because of animals on the railway
+This train has been cancelled because of cattle on the railway
+This train has been cancelled because of horses on the railway
+This train has been cancelled because of sheep on the railway
+This train has been cancelled because of animals on the railway earlier today
+This train has been cancelled because of cattle on the railway earlier today
+This train has been cancelled because of horses on the railway earlier today
+This train has been cancelled because of sheep on the railway earlier today
+This train has been cancelled because of passengers causing a disturbance on a train
+This train has been cancelled because of passengers causing a disturbance on this train
+This train has been cancelled because of passengers causing a disturbance earlier in this train's journey
+This train has been cancelled because of passengers causing a disturbance on a train earlier today
+This train has been cancelled because of a fault with the electric third rail earlier on this train's journey
+This train has been cancelled because of a fault with the electric third rail earlier today
+This train has been cancelled because of damage to the electric third rail earlier on this train's journey
+This train has been cancelled because of damage to the electric third rail earlier today
+This train has been cancelled because of failure of the electricity supply earlier on this train's journey
+This train has been cancelled because of failure of the electricity supply earlier today
+This train has been cancelled because of the electricity being switched off for safety reasons earlier on this train's journey
+This train has been cancelled because of the electricity being switched off for safety reasons earlier today
+This train has been cancelled because of urgent repairs to a bridge earlier today
+This train has been cancelled because of urgent repairs to a tunnel earlier today
+This train has been cancelled because of urgent repairs to the railway earlier today
+This train has been cancelled because of urgent repairs to the track earlier today
+This train has been cancelled because of expected industrial action earlier today
+This train has been cancelled because of expected industrial action yesterday
+This train has been cancelled because of industrial action earlier today
+This train has been cancelled because of industrial action yesterday
+This train has been cancelled because of an object being caught on the overhead electric wires earlier on this train's journey
+This train has been cancelled because of an object being caught on the overhead electric wires earlier today
+This train has been cancelled because of damage to the overhead electric wires earlier on this train's journey
+This train has been cancelled because of damage to the overhead electric wires earlier today
+This train has been cancelled because of earlier engineering works not being finished on time
+This train has been cancelled because of a fault with the on train signalling system earlier on this train's journey
+This train has been cancelled because of a fault with the on train signalling system earlier today
+This train has been cancelled because of a fault with the radio system between the driver and the signaller earlier on this train's journey
+This train has been cancelled because of a fault with the radio system between the driver and the signaller earlier today
+This train has been cancelled because of a fault with the signalling system earlier on this train's journey
+This train has been cancelled because of a fault with the signalling system earlier today
+This train has been cancelled because of signalling staff being taken ill earlier on this train's journey
+This train has been cancelled because of signalling staff being taken ill earlier today
+This train has been cancelled because of the fire alarm sounding in a signalbox earlier on this train's journey
+This train has been cancelled because of the fire alarm sounding in a signalbox earlier today
+This train has been cancelled because of the fire alarm sounding in the signalling centre earlier on this train's journey
+This train has been cancelled because of the fire alarm sounding in the signalling centre earlier today
+This train has been cancelled because of attempted theft of overhead line electrification equipment earlier today
+This train has been cancelled because of attempted theft of overhead line electrification equipment yesterday
+This train has been cancelled because of attempted theft of railway equipment earlier today
+This train has been cancelled because of attempted theft of railway equipment yesterday
+This train has been cancelled because of attempted theft of signalling cables earlier today
+This train has been cancelled because of attempted theft of signalling cables yesterday
+This train has been cancelled because of attempted theft of third rail electrification equipment earlier today
+This train has been cancelled because of attempted theft of third rail electrification equipment yesterday
+This train has been cancelled because of theft of overhead line electrification equipment earlier today
+This train has been cancelled because of theft of overhead line electrification equipment yesterday
+This train has been cancelled because of theft of railway equipment earlier today
+This train has been cancelled because of theft of railway equipment yesterday
+This train has been cancelled because of theft of signalling cables earlier today
+This train has been cancelled because of theft of signalling cables yesterday
+This train has been cancelled because of theft of third rail electrification equipment earlier today
+This train has been cancelled because of theft of third rail electrification equipment yesterday
+This train has been cancelled because of vandalism at a station earlier today
+This train has been cancelled because of vandalism at a station yesterday
+This train has been cancelled because of vandalism of railway equipment earlier today
+This train has been cancelled because of vandalism of railway equipment yesterday
+This train has been cancelled because of vandalism on a train earlier today
+This train has been cancelled because of vandalism on a train yesterday
+This train has been cancelled because of vandalism on this train earlier today
+This train has been cancelled because of vandalism on this train yesterday
+This train has been cancelled because of a fault with the electric third rail
+This train has been cancelled because of damage to the electric third rail
+This train has been cancelled because of failure of the electricity supply
+This train has been cancelled because of the electricity being switched off for safety reasons
+This train has been cancelled because of urgent repairs to a bridge
+This train has been cancelled because of urgent repairs to a tunnel
+This train has been cancelled because of urgent repairs to the railway
+This train has been cancelled because of urgent repairs to the track
+This train has been cancelled because of the emergency services dealing with an incident earlier today
+This train has been cancelled because of ambulance service dealing with an incident
+This train has been cancelled because of fire brigade dealing with an incident
+This train has been cancelled because of police dealing with an incident
+This train has been cancelled because of the emergency services dealing with an incident
+This train has been cancelled because of the fire alarm sounding at a station
+This train has been cancelled because of the fire alarm sounding at a station earlier today
+This train has been cancelled because of a burst water main flooding the railway
+This train has been cancelled because of a river flooding the railway
+This train has been cancelled because of flood water making the railway potentially unsafe
+This train has been cancelled because of flooding
+This train has been cancelled because of heavy rain flooding the railway
+This train has been cancelled because of predicted flooding
+This train has been cancelled because of the sea flooding the railway
+This train has been cancelled because of a burst water main flooding the railway earlier today
+This train has been cancelled because of a river flooding the railway earlier today
+This train has been cancelled because of flood water making the railway potentially unsafe earlier today
+This train has been cancelled because of flooding earlier in this train's journey
+This train has been cancelled because of flooding earlier today
+This train has been cancelled because of heavy rain flooding the railway earlier today
+This train has been cancelled because of predicted flooding earlier today
+This train has been cancelled because of the sea flooding the railway earlier today
+This train has been cancelled because of thick fog
+This train has been cancelled because of thick fog earlier in this train's journey
+This train has been cancelled because of thick fog earlier today
+This train has been cancelled because of forecasted high winds
+This train has been cancelled because of high winds
+This train has been cancelled because of high winds earlier in this train's journey
+This train has been cancelled because of high winds earlier today
+This train has been cancelled because of expected industrial action
+This train has been cancelled because of industrial action
+This train has been cancelled because of lightning damaging a station
+This train has been cancelled because of lightning damaging a train
+This train has been cancelled because of lightning damaging equipment
+This train has been cancelled because of lightning damaging the electricity supply
+This train has been cancelled because of lightning damaging the signalling system
+This train has been cancelled because of lightning damaging this train
+This train has been cancelled because of an object being caught on the overhead electric wires
+This train has been cancelled because of damage to the overhead electric wires
+This train has been cancelled because of engineering works not being finished on time
+This train has been cancelled because of forecasted slippery rails
+This train has been cancelled because of ice preventing this train getting electricity from the third rail
+This train has been cancelled because of ice preventing trains getting electricity from the third rail
+This train has been cancelled because of slippery rails
+This train has been cancelled because of slippery rails earlier in this train's journey
+This train has been cancelled because of slippery rails earlier today
+This train has been cancelled because of forecasted severe weather
+This train has been cancelled because of severe weather
+This train has been cancelled because of severe weather earlier
+This train has been cancelled because of severe weather earlier in this train's journey
+This train has been cancelled because of severe weather earlier today
+This train has been cancelled because of a safety inspection of the track
+This train has been cancelled because of a safety inspection on a train
+This train has been cancelled because of a safety inspection on this train
+This train has been cancelled because of a safety inspection of the track earlier today
+This train has been cancelled because of a safety inspection on a train earlier today
+This train has been cancelled because of a safety inspection on this train earlier in its journey
+This train has been cancelled because of a fault with the on train signalling system
+This train has been cancelled because of a fault with the radio system between the driver and the signaller
+This train has been cancelled because of a fault with the signalling system
+This train has been cancelled because of signalling staff being taken ill
+This train has been cancelled because of the fire alarm sounding in a signalbox
+This train has been cancelled because of the fire alarm sounding in the signalling centre
+This train has been cancelled because of forecasted heavy snow
+This train has been cancelled because of heavy snow
+This train has been cancelled because of heavy snow earlier in this train's journey
+This train has been cancelled because of heavy snow earlier today
+This train has been cancelled because of heavy snow over recent days
+This train has been cancelled because of a speed restriction
+This train has been cancelled because of a speed restriction because of fog
+This train has been cancelled because of a speed restriction because of fog earlier on this train's journey
+This train has been cancelled because of a speed restriction because of fog earlier today
+This train has been cancelled because of a speed restriction because of heavy rain
+This train has been cancelled because of a speed restriction because of heavy rain earlier on this train's journey
+This train has been cancelled because of a speed restriction because of heavy rain earlier today
+This train has been cancelled because of a speed restriction because of high track temperatures
+This train has been cancelled because of a speed restriction because of high track temperatures earlier on this train's journey
+This train has been cancelled because of a speed restriction because of high track temperatures earlier today
+This train has been cancelled because of a speed restriction because of high winds
+This train has been cancelled because of a speed restriction because of high winds earlier on this train's journey
+This train has been cancelled because of a speed restriction because of high winds earlier today
+This train has been cancelled because of a speed restriction because of severe weather
+This train has been cancelled because of a speed restriction because of severe weather earlier on this train's journey
+This train has been cancelled because of a speed restriction because of severe weather earlier today
+This train has been cancelled because of a speed restriction because of snow and ice
+This train has been cancelled because of a speed restriction because of snow and ice earlier on this train's journey
+This train has been cancelled because of a speed restriction because of snow and ice earlier today
+This train has been cancelled because of a speed restriction earlier on this train's journey
+This train has been cancelled because of a speed restriction earlier today
+This train has been cancelled because of a speed restriction in a tunnel
+This train has been cancelled because of a speed restriction in a tunnel earlier on this train's journey
+This train has been cancelled because of a speed restriction in a tunnel earlier today
+This train has been cancelled because of a speed restriction over a bridge
+This train has been cancelled because of a speed restriction over a bridge earlier on this train's journey
+This train has been cancelled because of a speed restriction over a bridge earlier today
+This train has been cancelled because of a speed restriction over an embankment
+This train has been cancelled because of a speed restriction over an embankment earlier on this train's journey
+This train has been cancelled because of a speed restriction over an embankment earlier today
+This train has been cancelled because of a speed restriction over defective track
+This train has been cancelled because of a speed restriction over defective track earlier on this train's journey
+This train has been cancelled because of a speed restriction over defective track earlier today
+This train has been cancelled because of attempted theft of overhead line electrification equipment
+This train has been cancelled because of attempted theft of railway equipment
+This train has been cancelled because of attempted theft of signalling cables
+This train has been cancelled because of attempted theft of third rail electrification equipment
+This train has been cancelled because of theft of overhead line electrification equipment
+This train has been cancelled because of theft of railway equipment
+This train has been cancelled because of theft of signalling cables
+This train has been cancelled because of theft of third rail electrification equipment
+This train has been cancelled because of vandalism at a station
+This train has been cancelled because of vandalism of railway equipment
+This train has been cancelled because of vandalism on a train
+This train has been cancelled because of vandalism on this train
+This train has been cancelled because of train crew being delayed
+This train has been cancelled because of train crew being delayed by service disruption
+This train has been cancelled because of a bridge being damaged
+This train has been cancelled because of a bridge being damaged by a boat
+This train has been cancelled because of a bridge being damaged by a road vehicle
+This train has been cancelled because of a bridge having collapsed
+This train has been cancelled because of a broken rail
+This train has been cancelled because of a late departure while the train was cleaned specially
+This train has been cancelled because of a late running freight train
+This train has been cancelled because of a late running train being in front of this one
+This train has been cancelled because of a points failure
+This train has been cancelled because of a power cut at the station
+This train has been cancelled because of a problem with the station lighting
+This train has been cancelled because of a rail buckling in the heat
+This train has been cancelled because of a railway embankment being damaged
+This train has been cancelled because of a shortage of station staff
+This train has been cancelled because of a tunnel being closed for safety reasons
+This train has been cancelled because of an incident at the airport
+This train has been cancelled because of congestion
+This train has been cancelled because of the communication alarm being activated on a train
+This train has been cancelled because of the communication alarm being activated on this train
+This train has been cancelled because of the train departing late to maintain customer connections
+This train has been cancelled because of the train making extra stops because a train was cancelled
+This train has been cancelled because of the train making extra stops because of service disruption
+This train has been cancelled because of waiting for a part of the train to be attached
